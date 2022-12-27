@@ -23,7 +23,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![joacobndlinkedin](https://github.com/nicoardizzoli/nicoardizzoli/raw/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/joaqu%C3%ADn-nicolas-grandiccelli-53766b255/)
+[![joacobndlinkedin](https://github.com/nicoardizzoli/nicoardizzoli/raw/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/joaquingrandiccelli/)
 &nbsp;&nbsp;
 
 
