@@ -1,5 +1,5 @@
 # Joaquin Nicolas Grandiccelli
-## Jr. Java Dev
+## Java Dev
 
 <br>
 
